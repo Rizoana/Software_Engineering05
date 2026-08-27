@@ -33,11 +33,11 @@ Course Name: Software Engineering Sessional
   </tr>
   <tr>
     <td align="center">Sudipto Saha</td>
-    <td align="center">Md Mahfuz Hossain</td>
+    <td align="center">Mst.Rizoana Khatun</td>
   </tr>
   <tr>
     <td align="center">Lecturer,</td>
-    <td align="center">ID: 0812220205171003</td>
+    <td align="center">ID: 0812220105171005</td>
   </tr>
   <tr>
     <td align="center">Department of ICE, BAUET</td>
