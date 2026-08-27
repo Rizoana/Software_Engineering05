@@ -111,3 +111,9 @@ Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (e
 Markdown provides a simple and efficient way to create clear and organized documentation.
 It makes technical information easy to write, format, read, and maintain.
 Overall, learning Markdown is useful for creating professional project documentation and README files.
+# **References:**
+[1] J. Gruber, “Markdown,” Daring Fireball, 2004. [Online]. Available: https://daringfireball.net/projects/markdown/. [Accessed: Aug. 27, 2026].
+
+[2] M. MacLeod, Markdown Guide, 2020. [Online]. Available: https://www.markdownguide.org/. [Accessed: Aug. 27, 2026].
+
+[3] GitHub, “Basic writing and formatting syntax,” GitHub Docs, 2024. [Online]. Available: https://docs.github.com/en/get-started/writing-on-github. [Accessed: Aug. 27, 2026].
