@@ -1,5 +1,21 @@
 
+# **Experiment No: 01**
+# **Experiment Name: Documentation Using Markdown language**
+# **Objectives:**
+The main Objectives of this experiments are- 
 
+1. To learn the basic syntax and structure of Markdown language.
+
+2. To create well-organized and readable documentation using Markdown.
+
+3. To understand how to use headings, paragraphs, lists, links, images, and tables in Markdown.
+
+# **Introduction:**
+Markdown is a lightweight markup language used to create simple and well-structured documentation.
+It allows users to format text, add headings, lists, links, images, tables, and code easily.
+Markdown is widely used for README files, technical documentation, and project reports.
+
+# **Output:**
 # **Healthy Food**
 
 ## What is Healthy Food?
@@ -91,3 +107,7 @@ The chemical formula of water is H~2~O.
 ### Superscript
 
 Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (example of superscript).
+# **Conclusion:**
+Markdown provides a simple and efficient way to create clear and organized documentation.
+It makes technical information easy to write, format, read, and maintain.
+Overall, learning Markdown is useful for creating professional project documentation and README files.
