@@ -73,7 +73,7 @@ Course Name: Software Engineering Sessional
       <td align="center">02.</td>
       <td align="center">Lab Report 2</td>
       <td align="center">
-        <a href="Lab%202/lab2.md">Report-2</a>
+        <a href="[Lab%202/lab2.md](https://github.com/Rizoana/Software_Engineering05/blob/main/Lab2/Lab2SE.md)">Report-2</a>
       </td>
     </tr>
   </tbody>
