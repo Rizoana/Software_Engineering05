@@ -1,7 +1,7 @@
 
-# **Experiment No: 01**
-# **Experiment Name: Documentation Using Markdown language**
-# **Objectives:**
+### **Experiment No: 01**
+### **Experiment Name: Documentation Using Markdown language**
+### **Objectives:**
 The main Objectives of this experiments are- 
 
 1. To learn the basic syntax and structure of Markdown language.
@@ -10,7 +10,7 @@ The main Objectives of this experiments are-
 
 3. To understand how to use headings, paragraphs, lists, links, images, and tables in Markdown.
 
-# **Introduction:**
+### **Introduction:**
 Markdown is a lightweight markup language used to create simple and well-structured documentation.
 It allows users to format text, add headings, lists, links, images, tables, and code easily.
 Markdown is widely used for README files, technical documentation, and project reports.
@@ -115,7 +115,7 @@ Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (e
 ```
 
 
-# **Output:**
+### **Output:**
 # **Healthy Food**
 
 ## What is Healthy Food?
@@ -208,11 +208,11 @@ The chemical formula of water is H~2~O.
 
 Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (example of superscript).
 
-# **Conclusion:**
+### **Conclusion:**
 Markdown provides a simple and efficient way to create clear and organized documentation.
 It makes technical information easy to write, format, read, and maintain.
 Overall, learning Markdown is useful for creating professional project documentation and README files.
-# **References:**
+### **References:**
 [1] J. Gruber, “Markdown,” Daring Fireball, 2004. [Online]. Available: https://daringfireball.net/projects/markdown/. [Accessed: Aug. 27, 2026].
 
 [2] M. MacLeod, Markdown Guide, 2020. [Online]. Available: https://www.markdownguide.org/. [Accessed: Aug. 27, 2026].
