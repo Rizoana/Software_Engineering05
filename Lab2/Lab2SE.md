@@ -19,10 +19,15 @@ Git is a distributed version control system used to track changes in source code
 ## Git Commands:
 
 **git status:** Shows the current state of your working directory.
+
 **git add .:** Stages all changed and new files.
+
 **git branch -M:** Lists or manages branches in the repository.
+
 **git push:** Uploads local commits to a remote repository.
+
 **git commit -m:** Saves staged changes with a short descriptive commit message.
+
 ## Result:
 ![Git command](gitcommand1.png)
 ![Git command](gitcommand2.png)
