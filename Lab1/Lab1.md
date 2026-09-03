@@ -73,7 +73,10 @@ Visit this website for healthy eating tips:
 }
 ```
 ```markdown
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4a8d1c4785496db9fd9943007519be69a2f9884c
 Eating fruits every day is beneficial for health.[^1]
 
 [^1]: Fruits provide essential vitamins, minerals, and fiber.
