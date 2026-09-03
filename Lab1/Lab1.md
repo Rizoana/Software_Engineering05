@@ -108,6 +108,7 @@ The chemical formula of water is H~2~O.
 
 Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (example of superscript).
 ```
+
 # **Output:**
 # **Healthy Food**
 
