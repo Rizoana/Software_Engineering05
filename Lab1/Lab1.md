@@ -15,7 +15,7 @@ Markdown is a lightweight markup language used to create simple and well-structu
 It allows users to format text, add headings, lists, links, images, tables, and code easily.
 Markdown is widely used for README files, technical documentation, and project reports.
 ### Code:
-```
+```markdown
 # **Healthy Food**
 
 ## What is Healthy Food?
@@ -72,6 +72,7 @@ Visit this website for healthy eating tips:
   "fiber": "4.4g"
 }
 ```
+```markdown
 
 Eating fruits every day is beneficial for health.[^1]
 
@@ -107,7 +108,9 @@ The chemical formula of water is H~2~O.
 ### Superscript
 
 Vitamin C helps boost immunity, and a healthy diet can improve energy by X^2^ (example of superscript).
+
 ```
+
 
 # **Output:**
 # **Healthy Food**
