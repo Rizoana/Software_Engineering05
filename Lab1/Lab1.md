@@ -72,7 +72,7 @@ Visit this website for healthy eating tips:
   "fiber": "4.4g"
 }
 ```
-
+```markdown
 Eating fruits every day is beneficial for health.[^1]
 
 [^1]: Fruits provide essential vitamins, minerals, and fiber.
