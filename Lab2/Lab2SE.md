@@ -1,9 +1,9 @@
 
-# Experiment No: 02
+### Experiment No: 02
 
-# Experiment Name: Study of Different Git Commands.
+### Experiment Name: Study of Different Git Commands.
 
-## Objectives:
+### Objectives:
 The main objectives of this experiments are-
 
 i. To understand the basic concepts and functionalities of **Git** as a distributed version control system.
@@ -12,11 +12,11 @@ ii. To learn and practice commonly used Git commands.
 
 iii. To learn how to work with **branches** using commands.
 
-## Introduction:
+### Introduction:
 
 Git is a distributed version control system used to track changes in source code and manage software projects efficiently. This study focuses on learning and practicing different Git commands for creating repositories, managing changes, handling branches, and collaborating with others.
 
-## Git Commands:
+### Git Commands:
 
 **git status:** Shows the current state of your working directory.
 
@@ -28,15 +28,15 @@ Git is a distributed version control system used to track changes in source code
 
 **git commit -m:** Saves staged changes with a short descriptive commit message.
 
-## Result:
+### Result:
 ![Git command](gitcommand1.png)
 ![Git command](gitcommand2.png)
 
-## Conclusion:
+### Conclusion:
 
 The study of different Git commands helped us understand how Git can be used to manage and control different versions of a software project. We learned how to create repositories, track changes, commit updates, create and merge branches, and work with remote repositories. Overall, Git provides an efficient and reliable way to maintain project history, collaborate with team members, and manage software development projects effectively.
 
-## References:
+### References:
 
 [1] J. Abildskov, Practical Git: Confident Git Through Practice, 1st ed. Berkeley, CA, USA: Apress, 2020, 181 p.
 
